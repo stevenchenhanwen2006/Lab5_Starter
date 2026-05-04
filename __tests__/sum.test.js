@@ -6,5 +6,5 @@ test('adds 1 + 2 to equal 3', () => {
 });
 
 test('adds 1 + 2 to equal 3', () => {
-  expect(sum(1, 2)).toBe(4); // This test will fail because the expected value is incorrect.
+  expect(sum(1, 2)).toBe(3); //correct test case merged from testing
 });
