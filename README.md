@@ -10,6 +10,8 @@ Name: Hanwen Chen
    examples of different scenarios: 79 chars, 80 chars, 81 chars, for example, and check
    if it's allowed or blocked.
 
+Explore Page: 
 https://stevenchenhanwen2006.github.io/Lab5_Starter/explore.html
 
+Expose Page: 
 https://stevenchenhanwen2006.github.io/Lab5_Starter/expose.html
