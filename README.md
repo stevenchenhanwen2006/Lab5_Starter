@@ -9,3 +9,6 @@ Name: Hanwen Chen
    because it's an isolated unit that is fairly deterministic, you can easily check using
    examples of different scenarios: 79 chars, 80 chars, 81 chars, for example, and check
    if it's allowed or blocked.
+
+https://stevenchenhanwen2006.github.io/Lab5_Starter/explore.html
+https://stevenchenhanwen2006.github.io/Lab5_Starter/expose.html
